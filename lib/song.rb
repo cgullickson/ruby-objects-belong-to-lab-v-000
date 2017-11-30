@@ -5,5 +5,3 @@ def Song
     @title = title
   end
 end
-
-
